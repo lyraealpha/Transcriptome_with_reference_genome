@@ -1,1 +1,2 @@
-# Transcriptom_with_reference_genome
+# Transcriptome_with_reference_genome
+# This is a trancriptome pipeline
