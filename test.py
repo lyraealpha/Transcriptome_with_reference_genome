@@ -12,6 +12,10 @@ import argparse,\
 
 def Quality_control(fq_dir,qc_result_dir):
     print datetime.datetime.now()+ ' :'+ 'Qc_process start runing!'
+    print '''______________________________________________________
+             |   我还得跑一会儿: 不如你先去皮一下！！！              |
+             |_____________________________________________________|              
+    '''
     fq_file_name = []
     for paths,folders,files in os.walk(fq_dir):
         fq_file_name = fq_files
